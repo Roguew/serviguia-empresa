@@ -1,2 +1,2 @@
 # serviguia-empresa
-Content on private client
+Content on private client.
